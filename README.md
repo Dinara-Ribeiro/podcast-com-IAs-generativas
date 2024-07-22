@@ -1,17 +1,12 @@
 ## Caminhos para Criar um Podcast com IAs Generativas 🎙🎧
 
-!(codepixel-capa.png)
+![](codepixel-capa.png)
 
 - Escolha um nicho 
 - Escolha um título relevante
-- Defina pontos importantes sobre seu nicho que colocaremos em destaque 
+- Defina pontos importantes sobre seu nicho que colocaremos em destaque
 
-
-
-!(podcast2.png)
-
-
-## Prompt:
+## Comandos:
 
 🕵️‍♀️ Você é um roteirista de podcast sobre frontend, e  gostaria de que me ajudasse a criar um roteiro rico para este podcats em informações sobre o tema. 
 
@@ -37,8 +32,9 @@
 ChatGpt- https://openai.com/chatgpt/
 
 ✔ Imagem:
-Power Point:https://www.microsoft.com/pt-br/microsoft-365/powerpoint
-Freepik-https://br.freepik.com/
+Power Point:https://www.microsoft.com/pt-br/microsoft-365/powerpoint\
+
+✔Freepik-https://br.freepik.com/
 
 ✔ Áudio: 
 Fliki - https://fliki.ai/
